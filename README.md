@@ -53,6 +53,7 @@ This repository is a personal learning and experimentation space. While the aim 
 This repository is inspired by and based on the work presented in:
 
 * David A. Kopriva, *Implementing Spectral Methods for Partial Differential Equations: Algorithms for Scientists and Engineers*. Springer, 2009.
+  [Link to the book: https://link.springer.com/book/10.1007/978-90-481-2261-5](https://link.springer.com/book/10.1007/978-90-481-2261-5)
 
 Thank you to Professor Kopriva for providing such a valuable resource for learning spectral methods!
 
