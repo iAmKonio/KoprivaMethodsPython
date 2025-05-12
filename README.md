@@ -21,8 +21,8 @@ Here, you'll find code lazy implementations in Python (no working guarantee) of 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [repository URL]
-    cd [repository name]
+    git clone https://github.com/iAmKonio/KoprivaMethodsPython.git
+    cd KoprivaMethodsPython
     ```
 
 2.  **Install dependencies:**
