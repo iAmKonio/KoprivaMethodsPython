@@ -22,6 +22,8 @@ Here, you'll find code lazy implementations in Python (no working guarantee) of 
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/iAmKonio/KoprivaMethodsPython.git
+    ```
+    ```bash
     cd KoprivaMethodsPython
     ```
 
